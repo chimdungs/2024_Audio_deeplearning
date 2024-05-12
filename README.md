@@ -8,4 +8,4 @@ See our Final Presentation ppt file below !!
 
 ![image](https://github.com/chimdungs/2024_Audio_deeplearning/assets/138076274/3398c2a4-1aec-4f6b-b647-a0e00a648047)
 
-더 자세한 과정은 데모자료와 발표자료를 참고해주시길 바랍니다
+더 자세한 과정은 데모자료와 발표자료의 pdf 및 학습 코드를 참고해주시길 바랍니다
